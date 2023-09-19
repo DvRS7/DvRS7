@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DvRS7
 - 👀 I’m interested in IT programming and hacking
 - 🌱 I’m currently learning on koder 
-- 💞️ I’m looking to collaborate on all
+- 💞️ I’m looking to collaborate all
 - 📫 How to reach me ...
 
 <!---
